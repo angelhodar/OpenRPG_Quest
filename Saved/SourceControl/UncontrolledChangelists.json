@@ -1,0 +1,42 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"I:/epic/projects/OpenRPG_Quest/Content/Demo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap",
+				"I:/epic/projects/OpenRPG_Quest/Content/OpenRPG_Quests/Blueprints/Components/BPC_QuestInteractable.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Enums/e_QuestState.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Structs/s_DynamicQuestData.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Structs/s_QuestDataPackage.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Structs/s_QuestGoal.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Structs/s_FinishedQuest.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Structs/s_SavedQuestsData.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Enums/e_QuestCategory.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Structs/s_QuestReward.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Structs/s_StaticQuestData.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Blueprints/Components/BPC_PlayerQuestManager.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Enums/e_QuestInteractionPriority.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Datatables/DT_Quests.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Blueprints/BPL_Quest.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Blueprints/SaveQuestData.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Blueprints/Interfaces/BPI_QuestSaveLoadCommunication.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Blueprints/Interfaces/BPI_QuestInteractions.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Blueprints/Interfaces/BPI_QuestsRefresh.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Blueprints/Components/BPC_QuestInteractable.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Structs/s_QuestInteractable.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/Datatables/DT_QuestInteractables.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/UI/WB_GoalPopUpWindow.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/UI/WB_Goal.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/UI/WB_QuestDetails.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/UI/WB_QuestListEntry.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/UI/WB_QuestList.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/UI/WB_QuestLog.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/UI/WB_QuestPopUpWindow.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/UI/WB_TrackedQuest.uasset",
+				"I:/epic/projects/OpenRPG_Experimental Distribution/Content/OpenRPG_Quests/UI/WB_TrackedQuestsList.uasset"
+			]
+		}
+	]
+}
